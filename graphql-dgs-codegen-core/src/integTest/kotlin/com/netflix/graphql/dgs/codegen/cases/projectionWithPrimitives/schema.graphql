@@ -1,4 +1,0 @@
-type Query {
-  string: String
-  strings: [String]
-}

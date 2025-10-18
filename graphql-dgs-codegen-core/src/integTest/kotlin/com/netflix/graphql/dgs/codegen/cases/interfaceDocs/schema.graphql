@@ -1,6 +1,0 @@
-"""
-Anything with a title!
-"""
-interface Titled {
-  title: String
-}

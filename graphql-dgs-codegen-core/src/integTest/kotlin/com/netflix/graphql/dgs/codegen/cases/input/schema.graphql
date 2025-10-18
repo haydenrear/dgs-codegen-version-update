@@ -1,7 +1,0 @@
-type Query {
-  movies(filter: MovieFilter): [String]
-}
-
-input MovieFilter {
-  genre: String
-}

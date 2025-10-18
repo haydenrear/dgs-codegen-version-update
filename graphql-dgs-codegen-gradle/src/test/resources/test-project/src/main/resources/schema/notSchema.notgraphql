@@ -1,3 +1,0 @@
-type NotSchema {
-    ignored: Boolean
-}

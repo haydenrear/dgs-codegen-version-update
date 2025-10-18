@@ -1,7 +1,0 @@
-enum Color {
-  red
-}
-
-input ColorFilter {
-  color: Color = red
-}

@@ -1,9 +1,0 @@
-type Query {
-  types: [EmployeeTypes]
-}
-
-enum EmployeeTypes {
-  ENGINEER
-  MANAGER
-  DIRECTOR
-}

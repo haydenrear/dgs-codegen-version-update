@@ -1,8 +1,0 @@
-input SomeType {
-  colors: [Color] = [red]
-}
-
-enum Color {
-  red,
-  blue
-}

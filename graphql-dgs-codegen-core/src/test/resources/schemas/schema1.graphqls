@@ -1,7 +1,0 @@
-type Query {
-    friends: [Person]
-}
-
-type Person {
-    name: String
-}

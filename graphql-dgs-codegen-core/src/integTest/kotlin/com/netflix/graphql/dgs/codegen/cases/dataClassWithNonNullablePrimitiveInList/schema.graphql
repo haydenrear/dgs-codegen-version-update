@@ -1,5 +1,0 @@
-type MyType {
-  count: [Int!]
-  truth: [Boolean!]
-  floaty: [Float!]
-}

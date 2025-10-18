@@ -1,7 +1,0 @@
-type Person {
-  name: String
-}
-
-type Car @skipcodegen {
-  make: String
-}

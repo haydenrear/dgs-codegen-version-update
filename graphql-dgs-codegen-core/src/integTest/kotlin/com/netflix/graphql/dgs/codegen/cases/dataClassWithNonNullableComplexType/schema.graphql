@@ -1,7 +1,0 @@
-type MyType {
-  other: OtherType!
-}
-
-type OtherType {
-  name: String!
-}
